@@ -13,7 +13,7 @@ title: "[Re] TB-Net: A Tailored, Self-Attention Deep Convolutional Neural Networ
 authors:
   - name: Christopher Huang
     orcid: 0009-0004-3034-9235
-    email:
+    email: chuang19543@gmail.com
     affiliations: 1
 
   - name: Wenhao Lu
@@ -23,18 +23,13 @@ authors:
 
   - name: Adithya Balakumar
     orcid: 0009-0002-4035-8704
-    email:
+    email: adithyabalakumar007@gmail.com
     affiliations: 2
 
   - name: Jonathan Liu
     orcid: 0009-0000-4183-937X
-    email:
+    email: jonliu3000@gmail.com
     affiliations: 2
-
-  - name: Jayvant Rajesh
-    orcid: 0009-0001-4232-3065
-    email:
-    affiliations: 3
 
 # List of affiliations with code (corresponding to author affiliations), name
 # and address. You can also use these affiliations to add text such as "Equal
